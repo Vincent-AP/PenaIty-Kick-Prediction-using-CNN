@@ -12,15 +12,15 @@ The goal is to evaluate whether incorporating pose estimation improves predictio
 
 Project Workflow :
 
-1.Data collection from penalty kick videos
+1. Data collection from penalty kick videos
 
-2.Frame extraction and labeling (left / right)
+2. Frame extraction and labeling (left / right)
 
-3.Image preprocessing
+3. Image preprocessing
 
-4.Model training and hyperparameter tuning
+4. Model training and hyperparameter tuning
 
-5.Model evaluation and comparison
+5. Model evaluation and comparison
 
 
 File Description:
